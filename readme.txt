@@ -43,5 +43,5 @@ data[0]['sub_body_inference']['_sentences'][1]
 
 To get the first inference pair of aspect/opinion results for the first sentence of the first post:
 
-data[0]['sub_body_inference']['_sentences'][0]['events'][0]
+data[0]['sub_body_inference']['_sentences'][0]['_events'][0]
 	
